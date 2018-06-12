@@ -1,0 +1,23 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Nodejs Twitter Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulse/TwitterBot.git"
+  },
+  "author": "Uljana Sejko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulse/TwitterBot/issues"
+  },
+  "homepage": "https://github.com/ulse/TwitterBot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
