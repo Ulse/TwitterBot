@@ -1,2 +1,3 @@
 # TwitterBot
-Simple Twitter bot that favorites anyone who tweets about a certain subject.
+Simple Twitter bot that favorites any recent tweets in Spanish about #fifa2018 !!
+
