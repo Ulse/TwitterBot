@@ -4,10 +4,10 @@ const T = new Twitter(config);
 
 // Setting up the search params
 const params = {
-  q: '#nodejs',
-  count: 10,
+  q: '#fifa2018',
+  count: 20,
   result_type: 'recent',
-  lang: 'en'
+  lang: 'es'
 }
 
 //Initiating the search using params above
